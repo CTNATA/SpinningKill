@@ -1,0 +1,14 @@
+name: SpinningKill
+version: 3.0
+main: SpinningKill\Main
+api: 5.0.0
+author: Darlexx
+
+commands:
+  spinningkill:
+    description: "Usa SpinningKill para activar y desactivar la entidad"
+    permission: spinningkill.use
+
+permissions:
+  spinningkill.use:
+    default: op
